@@ -5,9 +5,7 @@ class Card
     @rank = rank
     @suit = suit
   end
-  def get_type
-    @type
-  end
+
 end
 RSpec.describe 'Card' do
   card = Card.new('Card type','Card rank', 'Card suit')
