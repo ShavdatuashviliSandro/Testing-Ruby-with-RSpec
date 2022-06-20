@@ -11,6 +11,7 @@ class Card
 end
 RSpec.describe 'Card' do
   card = Card.new('Card type','Card rank', 'Card suit')
+
   it 'has a type' do
     expect(card.type).to eq('Card type')
   end
