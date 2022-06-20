@@ -8,7 +8,6 @@ class Card
   end
 
 end
-
 RSpec.describe 'Card' do
   card = Card.new('Card type','Card rank', 'Card suit')
 
