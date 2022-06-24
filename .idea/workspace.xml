@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fb96ecf-ede9-4b3a-9e8d-8ba1a999ff6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spec/context_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/array_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/implict_subject_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/overwriting_let_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/card_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/card_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +29,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sandro/Desktop/evex_billing&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/sandro/Desktop/evex_billing",
+    "nodejs_package_manager_path": "npm",
+    "ruby.rails.projectView.checked": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spec" />
@@ -59,7 +60,8 @@
       <workItem from="1655706326714" duration="8948000" />
       <workItem from="1655795378747" duration="6509000" />
       <workItem from="1655895584427" duration="1507000" />
-      <workItem from="1655965390980" duration="743000" />
+      <workItem from="1655965390980" duration="11943000" />
+      <workItem from="1656051433617" duration="7417000" />
     </task>
     <servers />
   </component>
