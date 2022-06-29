@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fb96ecf-ede9-4b3a-9e8d-8ba1a999ff6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spec/array_2_spec.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spec/array_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/explicit_subject_spec.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spec/implict_subject_spec.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spec/overwriting_let_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/sandro/Desktop/evex_billing",
+    "last_opened_file_path": "/home/sandro/Desktop/rspec-course",
     "nodejs_package_manager_path": "npm",
     "ruby.rails.projectView.checked": "true"
   }
@@ -62,6 +64,7 @@
       <workItem from="1655895584427" duration="1507000" />
       <workItem from="1655965390980" duration="11943000" />
       <workItem from="1656051433617" duration="7417000" />
+      <workItem from="1656068481117" duration="5887000" />
     </task>
     <servers />
   </component>
