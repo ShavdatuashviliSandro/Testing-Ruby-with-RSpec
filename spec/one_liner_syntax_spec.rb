@@ -4,7 +4,7 @@ RSpec.describe 'shorthand syntax' do
 
   context 'with classic syntax' do
     it 'shoud equal 5' do
-      expect(sub).to eq(5)
+      expect(subject).to eq(5)
     end
   end
 
