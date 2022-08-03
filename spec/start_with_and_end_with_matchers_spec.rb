@@ -14,6 +14,6 @@ RSpec.describe 'start_with and end_with matchers' do
       expect(subject).to start_with(:a, :b, :c)
       expect(subject).to start_with(:a, :b, :c, :d)
     end
-    it { is_expected.to start_with(:c, :d)}
+    it { is_expected.to start_with(:a, :b)}
   end
 end
