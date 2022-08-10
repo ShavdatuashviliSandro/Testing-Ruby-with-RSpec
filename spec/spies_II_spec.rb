@@ -17,7 +17,6 @@ class Garage
   end
 end
 
-
 RSpec.describe Garage do
   let(:car) {instance_double(Car)}
 
