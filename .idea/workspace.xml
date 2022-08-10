@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fb96ecf-ede9-4b3a-9e8d-8ba1a999ff6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spec/class_double_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/instance_doubles_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spies_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/matching_arguments_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/matching_arguments_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sandro/Desktop/Ruby on Rails REST API&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/sandro/Desktop/evex_billing",
+    "nodejs_package_manager_path": "npm",
+    "ruby.rails.projectView.checked": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spec" />
@@ -108,7 +106,11 @@
       <workItem from="1659504136762" duration="7000000" />
       <workItem from="1659590700047" duration="1123000" />
       <workItem from="1659607636185" duration="7516000" />
-      <workItem from="1659676892488" duration="12517000" />
+      <workItem from="1659676892488" duration="13133000" />
+      <workItem from="1659958114680" duration="608000" />
+      <workItem from="1660047258494" duration="599000" />
+      <workItem from="1660052302498" duration="609000" />
+      <workItem from="1660115492355" duration="612000" />
     </task>
     <servers />
   </component>
