@@ -66,7 +66,7 @@ end
 
 
 class Student
-  #attr_writer for rewriting last_name
+  # attr_writer for rewriting last_name
   # attr_writer :last_name
 
   attr_accessor :first_name, :last_name, :email, :username, :password
@@ -127,4 +127,3 @@ def loading_text
   print '.'
 end
 
-puts "."
